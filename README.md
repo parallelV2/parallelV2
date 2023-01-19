@@ -10,7 +10,7 @@
 
 代码风格不那么简洁，因为有时脑子转不过来会写不少的注释
 
-这里仍然空空如也，因为过去基本是在团队中做闭源项目，而且我还没什么能拿出手的东西:weary:
+我的博客？基本都是洗稿而且没钱续服务器了。这里仍然空空如也，因为过去基本是在团队中做闭源项目，而且我还没什么能拿出手的东西:weary:
 
 基础不太扎实，走了不少弯路，希望大佬们多多指导！:honey_pot:
 
@@ -28,11 +28,13 @@
 
 会一点uni_app和taro，但是真的不想写小程序！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parallelV2)](https://github.com/parallelV2/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=parallelV2)](https://github.com/parallelV2/github-readme-stats)
+
+什么我居然没有常用语言
 
 摸鱼摸鱼:poultry_leg:
 
-![ParallelV2's GitHub stats](https://github-readme-stats.vercel.app/api?username=parallelV2&count_private=true&hide_rank=true)
+![ParallelV2's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=parallelV2&count_private=true&hide_rank=true)
 
 <img alt="Whispering..." style="margin-top: -10px" class="mr-3" src="https://github.githubassets.com/images/mona-whisper.gif" width="48" height="48">
 
